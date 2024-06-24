@@ -60,6 +60,7 @@ header.shadow{
 .navbar a{
     position: relative;
     font-size: 1rem;
+    margin: 0.2rem;
     padding: 10px 20px;
     color: var(--text-color);
     font-weight: 500;
